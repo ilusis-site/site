@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /krinkle_demo_conf2013_abc/
+Disallow: /soccer10-presskit/
